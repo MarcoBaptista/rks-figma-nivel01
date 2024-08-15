@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de um `README.md` para o sistema "Figma Treinamento" desenvolvido em React.js:
-
 ```markdown
 # Figma Treinamento
 
